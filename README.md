@@ -13,7 +13,7 @@ I am passionate about front-end engineering. I thrive on turning creative vision
 
 Let's connect, to discuss your projects, collaborate and make the digital world a more engaging and user-friendly!</p>
 
-- 📫 You can connect with me on:
+- <h3 align="left"> 📫 You can connect with me on:</h3>
 - Twitter: https://twitter.com/Divine__Ugorji
 - Gmail: **divinepower275@gmail.com**
 
