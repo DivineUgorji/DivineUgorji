@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'mDivine Ugorji 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer || Digital Craftsman</h3>
 
 <p>
