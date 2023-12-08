@@ -1,51 +1,42 @@
-
-
 <h1 align="center">Hello 👋 <br> My name is Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
 
 <p>
   
-I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences and I'm often immersed in learning, crafting, and building solutions. 
+A Front-End engineer passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
 
-
-I love building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
-
-
+I love turning creative visions and design hand outs into intuitive digital experiences. You'd often find me immersed in learning, crafting, and building solutions.
 
 ##
 
 <br>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+<!--- Web illustrations by Freepick ( https://freepick.com/web ) --->
+<img align="right" alt="GIF" src="![https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only](laptop-illustration.jpg)" width="360px"/>
 
 - 📗 Currently studying and sharpening my ** Fullstack software engineering skills**.
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, using **Javacsript**.
-
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
-  
+- 📖 Learning competitive coding, Data structures & Algorithms using **Javacsript**.
 - 🌎 Fluent and proficient in English language.
+
+- 🏗️ I’m looking to collaborate on **developing new open-source projects**.
 
 - 📧 Reach out for collaboration & Enquiries via email: **divinepower275@gmail.com**.
 
-
 <br>
 <br>
 
-## 🏆 Goals:
+## 🏆 Current Goals:
 
-- 🌐 Improve my knowledge of web accessibility and other standard web practices.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 🌐 Improve my knowledge of web accessibility and other standard web practices.
+
 - 🚀 Learn and gain experience in building full-stack applications using **React** and **Node.js**.
 - 🚀 Build and launch different SAAs and businesses that run on the internet.
 
+## 🚀 Future Expectations & Endeavour:
 
-## 🚀 Future Endeavors:
-
-- 🌟 love giving back to the community by sharing my knowledge and insights through tech blogs,
-  speaking engagements, and engaging in open-source contributions.
+- 💡 Love giving back to the community by sharing my knowledge and insights through tech blogs,speaking engagements, and open-source contributions.
 
 #
 
@@ -73,6 +64,7 @@ I love building interactive, stunning, and seamless user experiences on the web,
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+
 </details>
 
 <details open>
@@ -83,6 +75,7 @@ I love building interactive, stunning, and seamless user experiences on the web,
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 ![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+
 </details>
 
 <details open>
@@ -99,10 +92,10 @@ I love building interactive, stunning, and seamless user experiences on the web,
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+
 </details>
 
 </div>
-
 
 - <h3 align="left"> 📫 You can connect with me on:</h3>
 - Twitter: **https://twitter.com/Divine__Ugorji**
