@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 <br> I'm Divine Ugorji ✨</h1>
-<h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
+<h2 align="center">FrontEnd Engineer & Digital Craftsman</h2>
 
-<img alt="programming bro header banner" src="assets/programmer.jpg"  height="300px" width="100%">
+<img alt="programming bro header banner" src="assets/programmer.jpg"  height="400px" width="100%">
 
 <p>
   
@@ -48,7 +48,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <div align = "left">
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <details open>
 <summary><b> 👨‍💻🚀🚀 Frontend Skills & Tools </b></summary>
