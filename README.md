@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <br> I'm Divine Ugorji ✨</h1>
+<h1 align="center">Hello there 👋 <br> I'm Divine Ugorji ✨</h1>
 <h2 align="center">FrontEnd Engineer & Digital Craftsman</h2>
 
 <img alt="programming bro header banner" src="assets/programmer.jpg"  height="400px" width="100%">
@@ -102,13 +102,9 @@ I love turning creative visions and design hand outs into intuitive digital expe
 </div>
 
 - <h2 align="left"> 💌 Feel free to reach out and connect with me</h2>
-    <!-- - Twitter: **https://twitter.com/Divine__Ugorji**
-  <!-- - Gmail: **divinepower275@gmail.com** -->
+      <!-- - Twitter: **https://twitter.com/Divine__Ugorji**
+    <!-- - Gmail: **divinepower275@gmail.com** -->
+  <div align="center">
+  [![Gmail: Divine Ugorji](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:divinepower275@gmail.com)](mailto:divinepower275@gmail.com)&nbsp;[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://www.twitter.com/in/divine__ugorji)[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divineugorji)](https://www.linkedin.com/in/divineugorji)[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
 
-[![Gmail: Divine Ugorji](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:divinepower275@gmail.com)](mailto:divinepower275@gmail.com)&nbsp;
-
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
-
-[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divineugorji)](https://www.linkedin.com/in/divineugorji)
-
-<!-- [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://www.twitter.com/in/divine__ugorji) -->
+ </div>
