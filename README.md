@@ -1,3 +1,5 @@
+<img alt="programming bro header banner" src="assets/Programming-bro.svg" width="100%">
+
 <h1 align="center">Hello 👋 <br> My name is Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
 
@@ -13,11 +15,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <!--- Web illustrations by Freepick ( https://freepick.com/web ) --->
 
-<!-- ![progamming laptop illustration](assets/laptop-illustration.jpg) -->
-
 <img align="right" alt="progamming laptop illustration" src="assets/laptop-illustration.jpg" width="360px">
-
-<!-- <img align="right" alt="GIF" src="![https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only"(laptop-illustration.jpg) width="360px"/> -->
 
 - 📗 Currently studying and sharpening my ** Fullstack software engineering skills**.
 
@@ -103,6 +101,6 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 </div>
 
-- <h3 align="left"> 📫 You can connect with me on:</h3>
+- <h3 align="left"> 📫 Feel free to reach out and connect with me</h3>
 - Twitter: **https://twitter.com/Divine__Ugorji**
 - Gmail: **divinepower275@gmail.com**
