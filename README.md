@@ -13,7 +13,9 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <!--- Web illustrations by Freepick ( https://freepick.com/web ) --->
 
-![progamming laptop illustration](assets/laptop-illustration.jpg)
+<!-- ![progamming laptop illustration](assets/laptop-illustration.jpg) -->
+
+<img align="right" alt="progamming laptop illustration" src="assets/laptop-illustration.jpg" width="360px">
 
 <!-- <img align="right" alt="GIF" src="![https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only"(laptop-illustration.jpg) width="360px"/> -->
 
