@@ -1,4 +1,4 @@
-<img alt="programming bro header banner" src="assets/laptop-illustration.jpg" width="100%">
+<img alt="programming bro header banner" src="assets/laptop-illustration.jpg"  height="300px" width="100%">
 
 <h1 align="center">Hello 👋 <br> My name is Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
