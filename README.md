@@ -111,6 +111,6 @@ I love turning creative visions and design hand outs into intuitive digital expe
     - Gmail: **divinepower275@gmail.com** -->
 
 [![Gmail: Divine Ugorji](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:divinepower275@gmail.com)](mailto:divinepower275@gmail.com)&nbsp;
-[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://www.twitter.com/in/divine__ugorji)
+[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://twitter.com/Divine__Ugorji)
 [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-ugorji/)](https://www.linkedin.com/in/divine-ugorji/)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
