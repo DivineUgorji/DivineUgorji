@@ -24,8 +24,6 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 - 🏗️ I’m looking to collaborate on **developing new open-source projects**.
 
-- 📧 Reach out for collaboration & Enquiries via email: **divinepower275@gmail.com**.
-
 <br>
 <br>
 
@@ -61,6 +59,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 </details>
 
+<br>
 <details open>
 <summary><b> 🛠🛠 Backend Skills & Tools</b></summary>
 <br>
@@ -70,6 +69,8 @@ I love turning creative visions and design hand outs into intuitive digital expe
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 
 </details>
+
+<br>
 
 <details open>
 <summary><b>🗄️ Database</b></summary>
@@ -81,6 +82,8 @@ I love turning creative visions and design hand outs into intuitive digital expe
 ![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
 </details>
+
+<br>
 
 <details open>
 <summary><b>💻 Software and Tools</b></summary>
@@ -103,14 +106,11 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <br>
 
-- <h2 align="left"> 💌 Feel free to reach out and connect with me</h2>
+ <h2 align="left"> 💌 Feel free to reach out and connect with me</h2>
       <!-- - Twitter: **https://twitter.com/Divine__Ugorji**
-    <!-- - Gmail: **divinepower275@gmail.com** -->
+    - Gmail: **divinepower275@gmail.com** -->
 
-  [![Gmail: Divine Ugorji](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:divinepower275@gmail.com)](mailto:divinepower275@gmail.com)&nbsp;
-
-  [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://www.twitter.com/in/divine__ugorji)
-
-  [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divineugorji)](https://www.linkedin.com/in/divineugorji)
-
-  [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
+[![Gmail: Divine Ugorji](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:divinepower275@gmail.com)](mailto:divinepower275@gmail.com)&nbsp;
+[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://www.twitter.com/in/divine__ugorji)
+[![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divineugorji)](https://www.linkedin.com/in/divineugorji)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
