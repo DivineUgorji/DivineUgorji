@@ -46,7 +46,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <br>
 
-<div align = "center">
+<div align = "left">
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
