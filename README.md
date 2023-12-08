@@ -1,4 +1,4 @@
-<img alt="programming bro header banner" src="assets/laptop-illustration.jpg"  height="300px" width="100%">
+<img alt="programming bro header banner" src="assets/programmer.jpg"  height="400px" width="100%">
 
 <h1 align="center">Hello 👋 <br> My name is Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
@@ -15,7 +15,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <!--- Web illustrations by Freepick ( https://freepick.com/web ) --->
 
-<img align="right" alt="progamming laptop illustration" src="assets/Programming-bro.svg" width="360px">
+<img align="right" alt="progamming laptop illustration" src="assets/laptop-illustration.jpg" width="360px">
 
 - 📗 Currently studying and sharpening my ** Fullstack software engineering skills**.
 
