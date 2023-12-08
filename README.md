@@ -1,7 +1,7 @@
-<img alt="programming bro header banner" src="assets/programmer.jpg"  height="400px" width="100%">
-
-<h1 align="center">Hello 👋 <br> My name is Divine Ugorji 👨‍💻</h1>
+<h1 align="center">Hello there 👋 <br> I'm Divine Ugorji ✨</h1>
 <h3 align="center">FrontEnd Engineer & Digital Craftsman</h3>
+
+<img alt="programming bro header banner" src="assets/programmer.jpg"  height="300px" width="100%">
 
 <p>
   
