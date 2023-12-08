@@ -13,7 +13,9 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <!--- Web illustrations by Freepick ( https://freepick.com/web ) --->
 
-<img align="right" alt="GIF" src="![https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only"(laptop-illustration.jpg) width="360px"/>
+![progamming laptop illustration](assets/laptop-illustration.jpg)
+
+<!-- <img align="right" alt="GIF" src="![https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only"(laptop-illustration.jpg) width="360px"/> -->
 
 - 📗 Currently studying and sharpening my ** Fullstack software engineering skills**.
 
@@ -29,8 +31,9 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 ## 🏆 Current Goals:
 
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 - 🌐 Improve my knowledge of web accessibility and other standard web practices.
+
+- 🍥 Learn new design techniques and tools to enhance my UI/UX design skills.
 
 - 🚀 Learn and gain experience in building full-stack applications using **React** and **Node.js**.
 - 🚀 Build and launch different SAAs and businesses that run on the internet.
