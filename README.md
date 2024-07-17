@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋 <br> I'm Divine Ugorji ✨</h1>
 <h2 align="center">FrontEnd Engineer & Digital Craftsman</h2>
 
-<img alt="programming bro header banner" src="assets/headerr.png"  height="350px" width="100%">
+<!-- <img alt="programming bro header banner" src="assets/headerr.png"  height="350px" width="100%"> -->
 
 <p>
   
-A Front-End engineer, passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
+I am a Front-End oriented fullstack engineer, passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
 
 I love turning creative visions and design handouts into intuitive digital experiences. You'd often find me immersed in learning, crafting, and building solutions.
 
