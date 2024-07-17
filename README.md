@@ -9,7 +9,7 @@ I am a Front-End oriented fullstack engineer, passionate about building interact
 
 I love turning creative visions and design handouts into intuitive digital experiences. You'd often find me immersed in learning, crafting, and building solutions.
 
-##
+</p>
 
 <br>
 
@@ -27,10 +27,6 @@ I love turning creative visions and design handouts into intuitive digital exper
 <br>
 <br>
 
-<div align="center">
-
-<p align="center">
-
 ## 🏆 Current Goals:
 
 - 🚀 Learn and gain experience in building full-stack applications using **React**, **Next.js** and **Node.js**.
@@ -44,10 +40,6 @@ I love turning creative visions and design handouts into intuitive digital exper
 - 💡 Love giving back to the community by sharing my knowledge and insights through tech blogs,speaking engagements, and open-source contributions.
 
 - 🚀 Build and launch different SAAs and businesses that run on the internet.
-
-</p>
-
-</div>
 
 <br>
 
