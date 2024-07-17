@@ -3,8 +3,6 @@
 
 <img src="assets/headerrr.png" height="500px" width="100%" alt="programming bro header banner" >
 
-<!-- height="350px" width="100%" -->
-
 <p>
   
 I am a Front-End oriented fullstack engineer, passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
