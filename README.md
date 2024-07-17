@@ -27,20 +27,23 @@ I love turning creative visions and design handouts into intuitive digital exper
 <br>
 <br>
 
+<div align="center">
+
 ## 🏆 Current Goals:
+
+- 🚀 Learn and gain experience in building full-stack applications using **React**, **Next.js** and **Node.js**.
 
 - 🌐 Improve my knowledge of web accessibility and other standard web practices.
 
 - 🍥 Learn new design techniques and tools to enhance my UI/UX design skills.
 
-- 🚀 Learn and gain experience in building full-stack applications using **React** and **Node.js**.
-- 🚀 Build and launch different SAAs and businesses that run on the internet.
-
 ## 🚀 Future Expectations & Endeavour:
 
 - 💡 Love giving back to the community by sharing my knowledge and insights through tech blogs,speaking engagements, and open-source contributions.
 
-#
+- 🚀 Build and launch different SAAs and businesses that run on the internet.
+
+</div>
 
 <br>
 
@@ -109,6 +112,8 @@ I love turning creative visions and design handouts into intuitive digital exper
 
 <br>
 
+<div align="center">
+
  <h2 align="left"> 💌 Feel free to reach out and connect with me through any of these channels</h2>
       <!-- - Twitter: **https://twitter.com/Divine__Ugorji**
     - Gmail: **divinepower275@gmail.com** -->
@@ -117,3 +122,5 @@ I love turning creative visions and design handouts into intuitive digital exper
 [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Divine__Ugorji)](https://twitter.com/Divine__Ugorji)
 [![Linkedin: Divine Ugorji](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-ugorji/)](https://www.linkedin.com/in/divine-ugorji/)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DivineUgorji)](https://www.frontendmentor.io/profile/DivineUgorji)&nbsp;
+
+</div>
