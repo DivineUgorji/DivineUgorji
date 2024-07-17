@@ -5,9 +5,9 @@
 
 <p>
   
-A Front-End engineer passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
+A Front-End engineer, passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
 
-I love turning creative visions and design hand outs into intuitive digital experiences. You'd often find me immersed in learning, crafting, and building solutions.
+I love turning creative visions and design handouts into intuitive digital experiences. You'd often find me immersed in learning, crafting, and building solutions.
 
 ##
 
@@ -44,9 +44,9 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <br>
 
-<div align = "left">
+<div align = "center">
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <details open>
 <summary><b> 👨‍💻🚀🚀 Frontend Skills & Tools </b></summary>
@@ -72,6 +72,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <br>
 
+<div align="center">
 <details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
@@ -82,6 +83,8 @@ I love turning creative visions and design hand outs into intuitive digital expe
 ![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
 </details>
+
+</div>
 
 <br>
 
@@ -106,7 +109,7 @@ I love turning creative visions and design hand outs into intuitive digital expe
 
 <br>
 
- <h2 align="left"> 💌 Feel free to reach out and connect with me</h2>
+ <h2 align="left"> 💌 Feel free to reach out and connect with me through any of these channels</h2>
       <!-- - Twitter: **https://twitter.com/Divine__Ugorji**
     - Gmail: **divinepower275@gmail.com** -->
 
